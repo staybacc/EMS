@@ -1,0 +1,24 @@
+.roster {
+    padding: 20px;
+  }
+  
+  .roster h2 {
+    margin-bottom: 20px;
+  }
+  
+  .roster table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .roster th,
+  .roster td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .roster th {
+    background-color: #007BFF;
+    color: white;
+  }

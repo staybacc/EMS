@@ -1,0 +1,29 @@
+.user-top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .user-welcome {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .nav-buttons .btn-personal-info,
+  .nav-buttons .btn-tasks {
+    background-color: white;
+    color: #007BFF;
+    border: none;
+    padding: 10px 15px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .nav-buttons .btn-personal-info:hover,
+  .nav-buttons .btn-tasks:hover {
+    background-color: #e2e6ea;
+  }
